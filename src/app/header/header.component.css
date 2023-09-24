@@ -45,6 +45,7 @@
     border: 1px solid blueviolet;
     height: 35px;
     border-right: 0px;
+    padding-left: 15px;
 }
 
 .nav .nav-search button {

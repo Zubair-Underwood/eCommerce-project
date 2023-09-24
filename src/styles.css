@@ -8,3 +8,37 @@ body {
 
     margin: 0 5%;
 }
+
+.common-form {
+
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    width: 350px;
+}
+
+.form-input {
+
+    height: 25px;
+    margin: 10px 0;
+    padding-left: 15px;
+    border: 1px solid blueviolet;
+    color: blueviolet;
+}
+
+.form-input::placeholder {
+    color: purple;
+
+}
+
+.form-button {
+
+    height: 40px;
+    border: 1px solid blueviolet;
+    cursor: pointer;
+    background: purple;
+    border-radius: 20px;
+    color: #ffffff;
+    font-weight: 700;
+}
