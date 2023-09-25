@@ -26,12 +26,6 @@
       "password": "abcdf123",
       "text": "abc@xyz.com",
       "id": 5
-    },
-    {
-      "name": "bruce",
-      "password": "abc123",
-      "text": "abc@xyz.com",
-      "id": 6
     }
   ]
 }
