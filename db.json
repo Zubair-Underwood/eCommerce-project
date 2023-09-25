@@ -1,0 +1,37 @@
+{
+  "seller": [
+    {
+      "id": 1
+    },
+    {
+      "name": "Underwood",
+      "email": "abc@xyz.com",
+      "password": "SilverStone12",
+      "id": 2
+    },
+    {
+      "name": "Matt",
+      "password": "underwood123",
+      "text": "abc@xyz.com",
+      "id": 3
+    },
+    {
+      "name": "Matt",
+      "password": "underwood123",
+      "text": "abc@xyz.com",
+      "id": 4
+    },
+    {
+      "name": "Kaya",
+      "password": "abcdf123",
+      "text": "abc@xyz.com",
+      "id": 5
+    },
+    {
+      "name": "bruce",
+      "password": "abc123",
+      "text": "abc@xyz.com",
+      "id": 6
+    }
+  ]
+}
